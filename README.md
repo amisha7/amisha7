@@ -3,7 +3,9 @@
 
 <h2>📺 Certificates:</h2>
 
-- [Scrum Fundamentals Certified (SFC™)](https://github.com/amisha7/amisha7/blob/main/835657_SFC_Amisha%20Patel.jpg)
+- [Scrum Fundamentals Certified (SFC™)](835657_SFC_Amisha%20Patel.jpg)
+- [Accenture North America - Data Analytics and Visualization Job Simulation](Accenture_certificate.pdf)
+- [Walmart USA - Advanced Software Engineering Job Simulation](https://github.com/amisha7/amisha7/blob/main/Walmart%20USA_certificate.pdf)
 
 
 <!--
