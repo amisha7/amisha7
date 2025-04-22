@@ -1,5 +1,11 @@
 <h1>Hi, I'm Amisha! <br/><a href="https://github.com/amisha7">Software Developer</a>
 
+<h2>👨‍💻 Projects:</h2>
+- <b>C#, .NET, MVC, Javascript</b>
+
+  - [Tailors Point](https://github.com/amisha7/TailorsPoint)
+  - [Jeweldaze](https://github.com/amisha7/Jeweldaze)
+
 
 <h2>📺 Certificates:</h2>
 
