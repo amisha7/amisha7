@@ -1,11 +1,16 @@
 <h1>Hi, I'm Amisha! <br/><a href="https://github.com/amisha7">Software Developer</a>
 
 <h2>👨‍💻 Projects:</h2>
-- <b>C#, .NET, MVC, Javascript</b>
 
+- <b>C#, .NET, MVC, JavaScript</b>
   - [Tailors Point](https://github.com/amisha7/TailorsPoint)
   - [Jeweldaze](https://github.com/amisha7/Jeweldaze)
-
+- <b>R Programming, Tableau</b>
+  - [Auto MPG Analysis & Prediction](https://github.com/joshmadakor1/Auto-Analytics-Regression-and-Visualization-of-MPG-Factors)
+- <b>Python</b>
+  - [NYC Health Violations](https://github.com/amisha7/NYC-Health-Violations)
+  - [Analyzing U.S. Traffic Accidents](https://github.com/amisha7/US_Accidents-Analysis)
+  - [Global Terrorism Analysis](https://github.com/amisha7/Global-Terrorism)
 
 <h2>📺 Certificates:</h2>
 
