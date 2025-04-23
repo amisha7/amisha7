@@ -7,6 +7,7 @@
   - [Jeweldaze](https://github.com/amisha7/Jeweldaze)
 - <b>R Programming, Tableau</b>
   - [Auto MPG Analysis & Prediction](https://github.com/amisha7/Auto-Analytics-Regression-and-Visualization-of-MPG-Factors)
+  - [Heart Failure Prediction using Machine Learning](https://github.com/amisha7/Heart-Failure-Prediction)
 - <b>Python</b>
   - [NYC Health Violations](https://github.com/amisha7/NYC-Health-Violations)
   - [Analyzing U.S. Traffic Accidents](https://github.com/amisha7/US_Accidents-Analysis)
